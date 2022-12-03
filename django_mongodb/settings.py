@@ -77,7 +77,7 @@ WSGI_APPLICATION = 'django_mongodb.wsgi.application'
 DATABASES = {
        'default': {
            'ENGINE': 'djongo',
-           'NAME': 'db-name',
+           'NAME': 'blog',
        }
    }
 
